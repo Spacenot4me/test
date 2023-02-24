@@ -1,0 +1,501 @@
+student_age,sex,high_school_type,scholarship,additional_work,artistic_or_sport_activity,partner,transportation_to_university,accommodation_type,mothers_education,fathers_education,siblings,parental_status,hours_per_week,third_party_seminars,hobbies,attendance_to_classes,preparation_to_midterm1,preparation_to_midterm2,taking_notes_in_class,average_grade_in_last_semester,course_id,grade
+2,Male,other,2,1,1,2,Bus,2,6,2,2,2,5,2,2,1,with friends,1,2,4,4,3
+2,Male,other,2,1,2,2,bicycle,2,6,3,1,1,5,2,1,2,alone,2,2,1,4,1
+2,Male,other,2,2,2,1,bicycle,2,2,3,1,2,5,1,2,1,alone,2,2,1,2,1
+1,Female,other,2,1,1,1,Other,2,6,3,1,3,4,1,2,1,with friends,2,1,2,3,7
+3,Female,private,1,2,2,2,Private car/taxi,3,4,6,2,1,3,1,1,1,with friends,2,3,4,4,5
+1,Male,state,1,1,1,2,Bus,3,1,1,1,3,4,2,1,1,not applicable,1,3,2,3,2
+1,Male,state,2,1,1,1,Other,1,5,2,2,2,3,1,2,1,alone,2,2,5,1,7
+3,Male,state,2,2,2,1,Private car/taxi,4,1,2,1,2,3,1,2,3,with friends,1,1,2,4,6
+2,Male,private,1,1,1,2,bicycle,1,2,5,2,3,3,1,2,3,not applicable,2,1,4,2,7
+1,Male,private,1,2,2,1,Other,4,5,4,2,2,3,1,2,1,not applicable,2,3,4,4,2
+1,Male,other,2,1,1,1,Other,2,5,4,2,3,4,1,2,3,alone,3,1,5,1,1
+1,Male,other,1,1,1,1,Other,3,6,3,2,2,5,2,1,1,not applicable,3,3,2,2,2
+3,Male,private,2,1,2,2,Other,1,2,4,2,2,1,2,2,1,alone,1,3,1,1,2
+1,Female,private,1,2,2,2,bicycle,2,6,5,1,3,1,1,1,1,with friends,3,1,1,1,3
+2,Male,state,1,2,1,2,Bus,2,2,5,1,1,2,2,2,1,alone,2,1,2,3,2
+2,Male,other,2,1,1,2,Other,4,6,2,1,2,4,2,1,3,alone,3,2,4,4,4
+2,Female,state,2,1,2,2,bicycle,3,5,5,1,1,2,2,1,1,not applicable,2,1,5,3,4
+1,Female,state,2,2,2,2,Private car/taxi,1,6,1,1,1,4,2,2,1,not applicable,1,1,5,2,0
+2,Female,state,1,1,2,2,Private car/taxi,4,1,4,1,3,3,2,2,3,with friends,2,1,4,3,2
+2,Male,state,2,2,1,1,Other,3,2,2,2,3,1,1,1,1,not applicable,3,1,5,2,4
+1,Male,state,1,1,2,2,Private car/taxi,1,5,6,1,3,5,2,2,1,with friends,1,1,5,1,7
+2,Male,state,2,2,2,2,Bus,4,1,2,1,2,1,2,1,3,with friends,3,2,2,3,6
+1,Female,other,1,2,1,2,Bus,1,1,5,1,3,1,2,1,1,not applicable,1,3,2,1,4
+2,Male,private,1,2,2,2,Bus,1,4,4,1,3,4,2,2,2,alone,2,1,1,1,1
+3,Male,other,1,2,1,1,Other,1,6,2,2,3,2,2,1,1,alone,1,2,2,3,7
+1,Male,private,1,1,1,2,Other,4,4,4,2,2,2,2,2,1,alone,2,3,2,4,1
+3,Female,other,2,2,1,2,Bus,2,4,3,2,2,4,2,2,3,not applicable,3,1,5,3,0
+1,Male,private,1,1,2,2,Bus,2,5,5,1,2,3,1,2,2,with friends,2,1,1,4,1
+1,Male,private,1,2,2,1,Private car/taxi,2,1,2,1,1,1,1,1,2,not applicable,3,2,2,2,2
+1,Male,other,1,1,2,1,Other,4,6,1,2,3,5,1,2,2,alone,2,2,2,3,1
+1,Female,private,1,1,2,1,Bus,2,4,2,1,3,1,1,1,1,with friends,3,2,1,1,6
+2,Female,other,1,2,2,2,Bus,1,4,2,2,2,4,1,1,3,alone,1,3,2,3,3
+2,Male,state,2,2,2,1,bicycle,3,3,4,2,3,2,2,1,1,with friends,2,3,3,4,3
+3,Female,other,1,2,1,1,Other,1,2,2,2,3,2,2,1,1,alone,2,1,2,2,6
+2,Female,state,2,1,1,2,bicycle,3,1,1,2,1,3,1,2,1,with friends,1,3,3,2,2
+3,Female,other,1,2,2,1,Private car/taxi,1,3,3,2,3,3,1,1,1,alone,3,3,2,2,0
+2,Female,private,1,2,2,1,Private car/taxi,3,6,4,1,1,4,1,2,3,alone,1,1,2,4,7
+2,Male,state,1,2,2,1,Bus,1,4,5,1,3,2,1,1,2,with friends,2,1,1,1,0
+2,Female,state,1,1,1,1,Other,4,6,3,2,1,3,2,1,2,with friends,1,2,3,4,1
+3,Female,private,1,1,2,2,Other,3,4,3,2,2,3,1,2,1,alone,3,2,4,4,6
+3,Female,other,1,2,2,1,bicycle,1,5,6,2,1,1,2,2,3,with friends,3,2,2,1,4
+1,Female,state,1,2,2,1,Private car/taxi,1,1,3,1,2,2,2,2,2,not applicable,2,1,3,1,6
+2,Female,other,2,2,1,2,bicycle,1,3,5,2,2,4,2,2,2,with friends,1,3,1,3,2
+1,Male,private,2,2,1,2,Other,3,3,1,1,2,3,2,2,3,with friends,1,2,1,3,3
+3,Female,private,1,2,1,1,Other,3,6,2,2,1,5,1,1,1,not applicable,2,1,5,1,2
+3,Male,private,1,2,1,2,Other,2,6,4,1,1,2,1,2,1,alone,2,2,5,3,3
+1,Female,private,2,2,1,2,Bus,2,1,1,1,1,4,1,2,3,with friends,1,2,5,2,6
+1,Male,other,1,2,2,2,Private car/taxi,2,3,1,1,3,4,2,2,2,alone,1,2,5,4,0
+2,Female,other,2,1,2,2,Other,3,6,5,2,2,1,2,2,1,with friends,2,3,4,4,5
+1,Male,private,1,2,1,1,Private car/taxi,2,5,3,1,1,2,1,1,2,not applicable,2,2,2,1,7
+3,Male,state,2,1,1,2,Private car/taxi,4,3,4,1,1,4,2,1,1,with friends,3,1,2,1,4
+1,Male,other,1,1,2,2,bicycle,4,3,2,1,3,1,2,1,3,not applicable,1,2,1,3,0
+1,Male,state,2,2,1,1,bicycle,3,6,4,1,2,2,2,2,2,with friends,1,1,5,3,6
+2,Male,private,1,2,1,2,Private car/taxi,3,6,4,1,1,5,1,1,2,not applicable,1,3,3,1,3
+3,Female,private,1,1,1,2,Other,3,5,5,2,2,3,2,2,2,not applicable,3,3,1,1,7
+2,Female,private,1,1,2,1,Bus,2,1,3,2,2,2,1,1,1,with friends,3,3,3,1,6
+1,Male,other,2,1,2,2,Private car/taxi,3,2,3,1,3,2,1,2,1,with friends,3,1,5,4,0
+1,Female,other,1,2,2,2,bicycle,4,4,2,2,1,5,2,1,1,not applicable,1,1,2,1,7
+3,Female,state,2,2,2,2,Bus,4,3,3,1,2,4,1,1,2,not applicable,1,2,5,4,6
+2,Female,other,1,2,2,2,Bus,2,1,2,2,2,4,2,1,2,with friends,3,3,5,1,3
+3,Male,state,2,1,2,1,bicycle,4,3,2,1,2,3,2,2,3,not applicable,2,3,3,4,0
+2,Female,private,1,1,2,2,Bus,1,5,4,1,3,1,1,2,3,not applicable,1,2,2,2,1
+3,Female,other,2,2,1,1,Other,1,5,6,2,3,5,1,2,1,alone,3,3,5,4,3
+1,Female,other,1,1,1,2,Other,1,4,3,1,2,3,1,2,3,with friends,2,3,2,4,1
+3,Female,private,1,1,2,2,Bus,1,3,5,2,1,2,2,1,2,with friends,3,3,2,2,7
+1,Female,state,2,1,1,1,Bus,2,3,6,2,3,1,2,2,2,with friends,3,1,3,3,6
+2,Female,state,1,2,1,2,Other,4,2,1,1,1,2,1,2,1,not applicable,3,1,1,1,4
+2,Female,state,2,1,1,1,Other,4,3,1,2,1,4,1,2,3,with friends,1,1,2,3,3
+3,Male,other,1,2,1,1,Bus,2,4,3,2,3,4,1,2,3,with friends,1,2,2,1,5
+2,Female,state,2,1,2,2,Bus,4,1,4,2,3,5,1,1,3,not applicable,1,1,1,1,0
+1,Male,private,1,1,2,2,Other,4,3,6,2,3,1,2,1,3,with friends,1,3,5,2,1
+3,Male,other,1,2,2,1,Private car/taxi,2,6,3,1,2,3,1,2,1,alone,3,3,1,2,4
+2,Male,state,1,1,1,2,Bus,1,5,2,2,3,2,1,2,3,with friends,1,3,5,1,4
+1,Male,state,2,2,2,2,bicycle,1,5,6,1,3,2,1,2,1,with friends,1,3,5,1,4
+2,Female,other,1,2,1,2,bicycle,2,6,1,2,2,3,2,2,3,not applicable,1,3,5,4,2
+2,Female,other,2,1,2,2,Other,4,3,6,2,1,2,2,1,3,with friends,1,2,3,4,7
+1,Male,private,1,1,2,1,bicycle,4,2,5,1,3,2,2,2,1,not applicable,1,3,1,1,1
+3,Female,state,1,2,2,1,bicycle,4,2,4,2,3,3,1,1,2,with friends,1,1,3,3,6
+2,Female,private,2,2,1,2,bicycle,1,3,6,1,3,3,1,2,2,with friends,1,2,5,3,7
+1,Male,private,2,1,1,1,Bus,1,6,6,1,2,4,1,1,2,alone,1,1,4,1,5
+1,Male,state,2,1,1,2,Private car/taxi,2,1,1,2,2,5,1,1,1,not applicable,3,1,1,1,7
+1,Male,private,1,1,1,1,Private car/taxi,4,5,5,2,1,2,1,2,1,not applicable,3,1,5,3,0
+3,Male,state,1,2,2,2,Bus,4,6,6,1,2,2,1,1,1,not applicable,3,2,2,4,2
+2,Female,other,1,1,1,1,Private car/taxi,1,4,6,1,2,2,1,1,1,not applicable,2,2,5,2,7
+3,Female,other,2,1,1,1,Bus,2,2,5,1,3,4,2,1,1,with friends,2,3,2,3,6
+3,Male,state,1,2,2,1,Private car/taxi,3,4,3,2,3,5,2,1,2,not applicable,2,1,5,2,0
+2,Female,other,1,1,1,1,Other,1,4,6,1,3,4,1,1,2,not applicable,3,2,4,4,4
+3,Male,other,1,2,2,1,bicycle,1,6,3,1,2,4,1,2,1,alone,2,1,5,1,2
+2,Male,state,1,1,1,1,Bus,3,1,2,2,2,3,1,2,3,with friends,1,1,2,2,3
+3,Male,private,1,1,1,1,Other,4,6,4,1,3,4,2,1,1,not applicable,2,3,5,1,2
+3,Male,other,2,2,1,1,bicycle,3,2,5,2,3,4,2,1,1,with friends,1,1,1,2,2
+1,Male,private,2,1,1,2,Private car/taxi,2,6,2,1,3,3,1,2,1,with friends,2,3,5,1,7
+2,Female,private,1,2,2,1,Private car/taxi,2,1,2,1,2,4,2,1,3,alone,3,2,5,3,5
+2,Male,private,2,2,2,2,Bus,1,2,3,1,1,1,2,2,2,with friends,1,1,4,2,3
+3,Female,state,1,1,2,1,Bus,1,5,6,1,1,3,2,1,2,alone,1,1,5,4,6
+2,Male,private,2,2,1,1,Other,1,5,3,1,3,1,1,1,3,with friends,2,2,4,1,1
+1,Male,private,2,2,1,1,Private car/taxi,1,4,2,2,1,2,1,2,3,not applicable,1,1,1,4,7
+3,Male,state,2,2,2,1,bicycle,4,3,2,1,1,1,1,1,1,alone,1,1,4,1,3
+3,Male,private,2,2,1,1,bicycle,1,1,5,1,1,5,2,2,1,with friends,2,1,2,2,4
+1,Male,state,2,1,2,2,Other,2,2,5,1,2,5,2,2,2,not applicable,2,1,2,4,3
+3,Male,other,2,1,2,1,bicycle,2,2,3,1,2,4,1,2,1,not applicable,3,1,4,3,2
+1,Female,state,1,1,1,1,Private car/taxi,1,5,2,2,3,5,1,2,2,with friends,2,2,3,1,0
+1,Female,private,2,1,1,1,bicycle,3,6,2,1,3,3,2,1,3,alone,1,1,5,1,3
+3,Female,state,2,1,1,2,Other,2,6,5,2,1,2,1,1,3,alone,2,2,4,4,0
+3,Male,other,2,2,2,1,bicycle,2,2,1,2,2,3,1,1,2,not applicable,1,1,3,2,6
+2,Female,other,1,2,2,1,Bus,1,3,4,2,3,3,2,1,2,not applicable,2,3,2,2,6
+1,Male,other,2,2,1,2,Bus,3,3,4,2,2,5,2,2,3,with friends,1,2,4,3,1
+1,Female,state,1,1,2,1,Bus,3,3,5,1,3,3,2,1,2,not applicable,3,1,5,3,0
+2,Female,state,1,1,1,2,bicycle,2,4,4,2,1,1,2,2,2,with friends,2,3,5,2,0
+1,Female,state,2,2,1,2,bicycle,4,1,3,2,1,5,1,1,1,alone,3,2,5,3,7
+3,Male,state,1,1,2,2,Other,2,6,4,2,3,5,2,1,2,with friends,3,1,2,1,4
+3,Male,other,1,1,1,1,Bus,4,6,2,2,2,3,2,2,2,alone,2,1,1,3,7
+1,Male,state,2,1,1,2,Bus,2,5,2,2,1,1,1,2,1,not applicable,3,1,4,3,2
+3,Male,private,2,2,2,1,Bus,3,5,4,2,2,5,2,2,2,alone,2,3,2,3,5
+1,Female,private,2,2,1,2,bicycle,1,4,5,1,3,5,2,1,1,alone,2,2,3,3,2
+1,Male,state,1,2,2,2,Private car/taxi,4,6,3,2,3,4,1,1,3,with friends,2,2,2,4,3
+2,Female,private,1,1,1,1,Private car/taxi,4,6,6,2,2,1,2,1,2,alone,2,3,4,3,1
+3,Female,other,2,1,1,2,Bus,4,6,5,2,1,1,1,2,2,not applicable,1,2,2,1,0
+1,Female,other,2,1,1,1,bicycle,3,6,4,1,2,5,1,2,3,with friends,1,1,3,1,0
+1,Male,private,1,2,1,2,bicycle,2,3,5,1,2,5,1,2,3,not applicable,3,3,4,2,0
+1,Female,state,2,1,1,1,bicycle,2,3,3,2,1,1,1,1,3,with friends,3,2,1,1,5
+2,Female,state,1,2,1,1,Other,2,2,2,2,2,1,2,1,2,not applicable,3,2,5,1,3
+1,Female,state,2,2,2,2,Other,4,2,2,2,1,2,2,1,3,alone,3,2,1,2,6
+1,Male,state,1,1,1,1,Other,1,6,2,2,2,4,2,1,2,with friends,3,2,3,4,2
+1,Female,other,1,1,2,2,bicycle,3,1,1,2,1,3,1,2,3,with friends,1,3,4,1,1
+3,Female,private,2,2,2,1,bicycle,1,5,5,1,2,5,1,1,3,alone,2,1,1,2,6
+2,Female,state,1,1,2,2,Other,2,2,4,2,1,3,2,2,1,alone,1,3,4,1,1
+2,Male,other,2,1,2,1,bicycle,2,3,5,2,1,3,2,1,2,not applicable,3,3,5,4,4
+1,Male,other,2,1,1,1,bicycle,3,6,2,1,3,4,1,2,3,with friends,3,1,4,3,1
+2,Male,state,2,2,2,1,bicycle,1,6,1,1,1,2,1,2,1,alone,2,1,1,3,0
+3,Female,private,2,2,2,1,Private car/taxi,1,4,2,2,1,2,2,1,1,with friends,3,1,4,4,3
+1,Female,private,2,2,1,2,Bus,4,2,4,1,1,5,2,1,2,not applicable,1,3,5,3,2
+3,Female,private,1,1,2,2,Bus,1,3,3,2,1,5,2,2,1,alone,1,1,5,1,2
+3,Female,private,1,1,2,2,Other,1,6,6,2,2,2,1,1,1,alone,3,2,3,4,7
+3,Female,private,2,1,1,2,Bus,3,4,4,2,3,5,1,1,3,alone,3,3,5,1,4
+1,Female,state,1,1,1,1,Other,2,3,3,2,2,4,1,1,2,alone,1,1,4,2,1
+3,Male,other,1,1,2,1,Private car/taxi,4,1,1,2,1,5,1,1,2,not applicable,2,1,2,2,4
+1,Male,private,1,2,2,1,Other,4,2,2,2,2,5,2,1,2,not applicable,2,1,5,4,7
+2,Male,other,1,2,2,1,Private car/taxi,4,4,3,2,1,4,2,2,1,not applicable,1,2,2,1,7
+3,Female,private,2,2,2,2,Bus,2,6,4,2,2,4,2,2,2,alone,3,1,4,2,0
+1,Male,private,1,2,2,1,Bus,1,2,3,1,1,1,2,2,3,with friends,1,1,5,1,6
+3,Male,other,2,1,2,1,Bus,1,4,4,1,1,4,1,2,3,with friends,3,2,4,3,4
+1,Female,other,1,1,2,1,bicycle,1,3,4,2,2,1,2,1,3,alone,1,1,4,3,3
+2,Male,state,2,1,1,2,bicycle,3,5,1,1,3,1,2,2,2,alone,2,2,1,3,0
+3,Female,private,2,1,2,2,bicycle,1,2,5,1,2,2,2,2,2,not applicable,2,2,3,2,3
+2,Female,other,2,1,1,2,Private car/taxi,4,1,5,1,1,4,1,1,1,not applicable,1,3,3,2,2
+1,Male,other,1,1,1,2,Other,4,6,6,1,1,3,1,2,3,not applicable,3,1,1,1,4
+2,Female,private,1,1,1,2,bicycle,3,3,4,2,3,5,1,2,1,not applicable,1,2,4,1,5
+1,Male,other,2,1,2,1,Private car/taxi,4,1,5,2,3,5,1,2,3,not applicable,3,1,1,1,2
+2,Female,private,1,1,2,2,Private car/taxi,3,4,3,1,1,2,1,1,2,alone,3,1,2,4,0
+2,Male,private,2,2,1,1,Other,4,2,4,2,3,2,2,1,1,alone,3,3,3,2,5
+1,Female,private,2,2,1,2,Bus,4,6,3,1,1,4,2,1,2,alone,2,3,2,2,7
+2,Female,private,2,2,1,2,bicycle,2,2,1,1,3,2,2,2,3,alone,3,3,5,2,6
+1,Female,other,1,1,1,1,bicycle,1,6,1,1,1,3,2,2,3,with friends,3,1,3,1,2
+3,Male,private,2,2,1,2,Bus,2,2,3,1,1,4,2,2,2,with friends,2,3,4,1,0
+2,Female,other,1,1,2,1,Bus,2,1,3,2,2,2,1,1,2,alone,2,1,5,4,7
+3,Female,state,1,2,2,1,Private car/taxi,1,1,3,2,2,2,1,2,2,alone,1,3,3,3,4
+3,Female,state,1,1,2,1,Private car/taxi,4,3,1,2,2,5,2,1,1,with friends,2,2,5,4,7
+1,Male,state,2,2,2,1,Bus,3,6,1,2,2,4,2,1,2,with friends,2,1,2,3,4
+2,Male,private,2,1,2,1,Other,4,3,4,2,3,5,2,2,2,with friends,1,1,1,2,6
+1,Female,other,2,2,1,2,Other,4,4,6,1,3,1,2,1,1,alone,1,2,5,1,5
+3,Male,private,2,2,1,1,Private car/taxi,2,1,1,2,3,5,1,1,2,not applicable,3,2,1,4,5
+1,Male,state,1,1,2,2,Bus,3,5,3,1,3,4,1,2,2,alone,2,2,3,1,1
+1,Male,other,1,1,2,2,bicycle,1,5,5,1,1,1,1,2,3,not applicable,3,1,2,1,4
+2,Male,private,1,2,1,2,Bus,3,2,1,2,3,3,2,1,1,alone,2,2,4,2,1
+3,Male,other,1,2,1,2,Other,2,4,6,2,1,3,1,2,2,with friends,2,2,5,2,2
+3,Female,state,2,2,1,2,Private car/taxi,1,2,3,2,3,2,1,1,3,not applicable,2,2,3,4,1
+3,Male,state,2,1,2,2,bicycle,1,1,5,2,1,3,2,2,3,with friends,1,2,4,3,2
+2,Female,other,1,2,1,2,Other,3,5,4,2,1,5,1,1,3,with friends,2,2,2,2,0
+1,Male,private,2,2,1,2,Private car/taxi,2,5,6,1,3,1,1,2,2,alone,3,2,4,1,7
+3,Male,private,2,2,1,2,Other,3,6,3,1,3,2,2,2,2,not applicable,3,2,5,4,5
+1,Male,state,2,2,1,1,bicycle,4,3,5,1,2,4,2,1,1,alone,1,2,3,4,5
+3,Male,private,1,1,1,2,Other,1,5,6,2,2,1,1,1,1,not applicable,3,2,4,3,1
+3,Female,state,2,2,2,2,Other,3,5,2,1,2,5,1,1,2,not applicable,1,2,2,2,0
+1,Male,other,2,1,1,2,Other,4,3,4,1,1,4,2,1,2,with friends,3,2,5,1,1
+2,Female,state,2,2,2,2,Bus,4,6,3,2,1,1,1,2,2,alone,2,1,2,2,1
+1,Female,private,2,2,1,2,Other,1,5,3,1,1,5,2,1,2,not applicable,3,3,1,1,3
+2,Female,state,2,2,2,2,Other,3,4,2,2,2,4,1,1,3,alone,2,3,5,1,6
+3,Female,other,2,1,2,1,Bus,3,5,1,2,2,2,2,1,1,alone,3,3,2,2,0
+3,Male,private,2,1,1,1,Bus,2,3,1,1,3,1,1,2,1,with friends,1,2,1,3,3
+1,Female,other,2,1,2,2,Other,4,1,4,1,1,3,1,1,3,with friends,1,2,1,4,3
+2,Female,state,2,2,2,2,Bus,4,6,5,2,1,5,2,1,3,alone,3,1,4,3,6
+2,Female,private,2,1,1,2,bicycle,4,2,3,2,1,5,1,1,1,with friends,2,3,1,4,5
+1,Female,private,1,1,2,2,Private car/taxi,1,1,5,2,3,3,2,2,1,alone,2,2,4,2,7
+2,Female,private,2,2,2,2,Private car/taxi,4,6,4,1,2,2,1,2,2,alone,1,3,4,4,3
+2,Male,private,1,2,1,1,Other,4,6,2,1,3,4,1,2,1,alone,2,2,3,2,2
+2,Male,state,1,2,1,2,Other,1,1,2,2,3,3,2,1,1,with friends,3,2,3,1,5
+1,Male,other,2,2,1,1,bicycle,1,5,1,2,3,1,1,1,3,alone,1,3,3,1,6
+3,Male,other,2,2,1,1,Private car/taxi,4,6,5,2,3,2,2,1,3,with friends,2,1,4,2,0
+3,Female,state,1,2,2,2,Bus,1,3,4,1,1,3,2,2,1,not applicable,2,2,4,3,7
+3,Female,private,1,2,1,2,bicycle,1,4,6,2,3,5,2,1,3,not applicable,1,1,2,2,4
+3,Female,other,2,1,2,2,bicycle,1,6,2,2,1,2,2,1,2,not applicable,2,1,4,4,3
+2,Male,other,1,2,1,2,Private car/taxi,4,4,5,2,3,3,1,2,1,alone,2,1,4,3,0
+1,Female,state,2,1,2,2,Private car/taxi,3,2,1,2,2,4,1,2,2,not applicable,2,1,5,3,5
+1,Female,state,2,1,2,1,Other,3,2,6,2,3,4,2,1,2,not applicable,2,2,4,3,2
+1,Female,other,2,2,1,1,Private car/taxi,2,6,6,2,2,2,1,1,1,with friends,1,2,5,3,3
+2,Male,state,1,1,2,2,Bus,2,6,6,2,1,4,1,2,2,not applicable,1,2,1,4,2
+1,Male,other,2,1,2,1,Private car/taxi,4,2,6,2,1,3,1,1,1,with friends,3,3,1,3,3
+3,Female,state,2,1,2,2,Other,2,2,1,2,2,5,2,2,3,alone,1,3,1,2,0
+2,Female,private,1,1,2,2,Bus,3,1,2,2,3,3,2,1,3,with friends,2,1,4,1,6
+2,Male,private,1,1,2,1,Private car/taxi,4,3,3,2,3,4,1,1,1,not applicable,3,1,5,3,5
+2,Female,state,2,1,1,1,Other,1,3,4,1,1,2,1,2,2,not applicable,1,1,2,4,0
+1,Female,other,2,2,2,2,Other,2,2,5,2,3,4,1,2,2,with friends,1,1,5,4,2
+2,Male,private,1,1,1,1,Other,4,3,6,2,2,1,2,2,3,with friends,3,3,4,2,1
+1,Female,state,1,1,1,1,Bus,1,2,3,1,2,5,2,1,3,alone,1,3,1,2,0
+1,Female,state,2,1,1,1,bicycle,2,5,6,2,1,2,2,2,2,with friends,1,1,2,2,4
+2,Female,state,2,2,1,1,Bus,4,6,4,2,1,4,2,2,3,with friends,1,3,5,3,4
+3,Female,state,2,1,2,2,bicycle,3,1,6,1,3,1,1,1,1,with friends,2,3,4,3,2
+3,Female,private,1,1,2,2,bicycle,1,1,3,2,3,2,1,2,1,with friends,2,2,3,2,6
+3,Female,other,2,1,1,2,Private car/taxi,2,2,4,1,1,3,1,2,1,alone,1,1,5,3,0
+3,Male,private,2,2,1,2,Other,4,6,4,1,1,5,1,2,2,not applicable,3,1,4,1,2
+1,Male,other,1,1,1,2,bicycle,3,5,5,1,1,2,2,1,1,not applicable,1,3,1,2,7
+3,Female,state,1,1,1,2,Bus,4,6,5,2,3,1,2,1,3,with friends,2,1,2,3,6
+2,Female,other,2,2,2,2,Private car/taxi,2,2,5,2,1,1,2,1,3,not applicable,2,1,4,1,6
+1,Male,state,2,2,1,2,Private car/taxi,3,3,2,1,3,1,1,1,3,alone,1,1,4,1,6
+1,Female,private,2,1,1,2,Private car/taxi,1,6,4,1,1,2,1,2,2,with friends,3,3,3,1,5
+1,Male,private,1,2,2,2,bicycle,3,2,5,2,1,4,2,2,2,alone,3,3,2,2,6
+2,Female,other,1,1,1,2,bicycle,4,4,1,2,2,3,1,2,2,not applicable,1,1,5,1,0
+1,Male,state,2,1,1,2,Private car/taxi,4,1,5,1,2,1,2,2,3,not applicable,3,2,4,2,0
+3,Male,other,2,1,1,1,Other,4,1,3,1,2,5,1,2,2,alone,3,3,3,1,1
+3,Female,private,1,1,1,2,Other,4,5,2,2,2,3,2,1,1,alone,2,1,4,4,1
+3,Female,private,2,1,1,1,bicycle,4,2,4,1,1,4,2,2,2,with friends,2,2,3,3,0
+2,Male,state,1,1,1,1,Private car/taxi,1,1,6,2,3,5,1,2,1,with friends,2,3,4,4,4
+2,Female,state,1,1,2,1,Private car/taxi,3,6,4,1,3,3,2,1,1,not applicable,2,3,3,1,1
+1,Female,private,2,1,2,1,Bus,1,5,2,1,2,1,1,1,2,not applicable,3,1,2,2,1
+2,Male,other,2,2,1,1,bicycle,3,5,3,1,1,5,2,2,3,alone,3,2,5,2,6
+3,Female,private,2,2,1,2,bicycle,2,6,3,2,1,5,1,1,2,alone,2,2,4,1,0
+1,Female,state,2,2,2,1,Private car/taxi,4,4,4,2,2,1,2,1,3,not applicable,3,1,2,2,3
+2,Male,other,1,2,1,1,Private car/taxi,1,4,3,1,3,3,1,2,1,not applicable,2,1,2,4,1
+3,Female,other,1,1,2,1,Bus,3,4,4,1,2,1,2,1,2,alone,3,2,5,2,4
+2,Male,other,2,2,2,1,Bus,3,1,1,2,1,3,1,2,3,with friends,1,2,3,3,1
+3,Male,private,1,2,1,2,Bus,4,2,5,2,1,5,2,2,3,with friends,1,1,2,1,4
+1,Male,state,1,2,1,2,Bus,1,6,6,1,1,1,1,1,2,not applicable,3,1,5,4,5
+2,Female,other,1,1,2,2,Other,1,4,6,2,3,5,2,2,2,alone,2,3,5,3,4
+2,Male,state,2,2,1,2,Private car/taxi,4,2,1,1,2,4,2,2,2,with friends,2,1,2,3,0
+1,Male,other,2,2,1,1,Private car/taxi,4,6,6,1,1,4,1,2,1,with friends,3,1,3,2,4
+3,Female,other,1,2,1,2,Other,3,5,1,2,3,5,1,1,3,with friends,2,2,4,1,0
+1,Male,other,1,1,2,1,Bus,4,4,6,2,2,3,2,1,3,alone,3,1,5,4,6
+2,Male,other,1,1,2,1,bicycle,1,6,3,2,1,5,1,1,3,alone,1,1,2,3,5
+1,Male,state,2,1,2,1,Other,3,2,1,2,1,2,2,1,2,with friends,1,3,4,2,1
+1,Female,state,2,2,1,1,Other,2,4,4,1,1,1,2,2,1,not applicable,3,3,1,2,6
+1,Male,state,1,1,1,1,Bus,1,4,6,1,1,4,1,1,1,alone,1,2,3,3,3
+2,Female,state,1,2,2,2,Other,1,1,5,2,1,4,1,1,2,not applicable,2,1,5,4,3
+1,Male,private,2,2,1,2,Other,2,6,5,1,3,3,1,1,2,not applicable,3,2,1,3,0
+2,Female,other,1,2,2,2,bicycle,4,4,2,2,1,1,1,1,1,with friends,1,1,2,4,5
+2,Female,other,1,2,2,2,Private car/taxi,4,5,1,2,3,4,2,2,3,with friends,1,1,5,4,0
+2,Male,other,1,2,1,2,Private car/taxi,4,2,4,2,2,1,2,2,1,not applicable,3,1,3,1,6
+3,Male,state,1,1,1,1,Bus,2,1,2,2,2,1,2,2,3,with friends,3,3,1,2,3
+2,Male,state,1,1,1,2,Bus,2,1,3,1,1,2,2,1,3,not applicable,3,1,5,3,7
+3,Male,other,1,2,2,2,bicycle,4,1,4,2,3,1,1,1,1,not applicable,2,3,1,4,2
+1,Male,state,1,2,1,2,Other,3,4,2,2,2,1,2,1,1,not applicable,1,1,5,4,6
+3,Female,other,2,1,2,1,bicycle,1,3,4,1,1,2,1,2,3,with friends,1,1,4,4,4
+2,Female,state,2,2,2,2,Private car/taxi,2,6,6,1,3,4,1,1,3,not applicable,3,3,3,3,5
+1,Male,state,2,2,1,1,bicycle,4,3,4,2,3,3,1,2,3,not applicable,3,2,3,3,6
+1,Male,state,2,2,1,1,Other,3,1,2,2,2,1,2,2,2,not applicable,3,1,5,3,4
+1,Male,private,2,1,2,2,Other,2,5,5,2,2,1,2,2,1,with friends,3,3,1,2,2
+3,Male,private,2,1,1,1,bicycle,1,6,4,1,2,1,2,2,3,with friends,1,2,5,1,3
+1,Male,private,1,2,1,1,Other,4,5,1,1,1,5,2,2,3,alone,1,2,2,1,3
+2,Female,state,1,2,1,2,Other,2,3,6,2,3,2,2,1,2,alone,3,1,4,1,0
+1,Female,other,1,1,1,1,Other,3,6,1,1,2,5,2,2,3,alone,3,1,1,1,3
+2,Male,state,2,2,2,1,Bus,3,6,1,1,1,5,2,2,3,alone,2,2,1,4,4
+3,Female,other,2,1,2,2,Private car/taxi,4,3,3,1,2,1,2,2,3,with friends,2,3,5,2,1
+1,Male,other,1,1,1,1,Other,1,1,5,1,1,1,1,2,1,with friends,3,2,4,3,1
+1,Male,state,2,2,1,1,bicycle,2,6,1,1,2,4,2,1,1,not applicable,1,2,5,4,5
+1,Male,other,1,2,1,2,Other,1,1,3,1,3,3,1,1,2,with friends,2,3,2,4,3
+1,Male,state,1,2,1,1,bicycle,2,5,5,1,3,4,2,1,3,with friends,1,1,3,1,6
+1,Male,private,1,2,2,1,Private car/taxi,4,3,6,2,1,5,2,2,1,not applicable,2,2,5,2,7
+1,Female,state,1,2,1,1,Other,3,6,6,1,2,4,2,1,2,not applicable,3,3,5,1,0
+2,Male,state,1,1,1,1,Other,4,3,2,1,2,4,2,1,3,not applicable,3,3,1,3,3
+3,Female,private,2,2,2,1,bicycle,4,6,3,2,1,2,1,1,2,alone,2,3,1,2,5
+2,Female,other,1,1,1,1,Private car/taxi,2,1,6,1,1,2,1,2,3,alone,1,3,1,4,2
+2,Female,private,2,1,1,2,Bus,1,6,3,1,2,4,2,1,2,with friends,2,3,4,2,7
+1,Male,other,1,2,2,2,bicycle,2,2,5,1,2,3,2,1,1,not applicable,1,3,3,2,5
+1,Male,other,1,2,2,1,Private car/taxi,1,6,5,2,3,5,1,2,2,not applicable,1,1,1,3,6
+3,Male,private,1,2,1,2,Other,2,1,6,2,2,3,1,1,1,with friends,2,2,5,3,0
+3,Male,private,2,1,2,1,Other,1,1,2,2,1,1,1,2,3,with friends,1,2,4,4,0
+2,Male,state,1,2,2,2,Bus,4,3,5,1,3,1,1,2,2,not applicable,1,3,5,2,3
+3,Female,other,2,1,1,2,Other,2,2,5,1,2,3,1,1,1,not applicable,3,2,1,2,1
+3,Female,other,1,1,1,2,Other,3,6,1,2,2,4,2,1,3,not applicable,1,3,3,4,5
+3,Female,state,1,2,1,1,Other,3,4,5,1,3,5,1,2,1,alone,1,2,1,1,2
+3,Male,other,2,2,2,1,Other,4,2,3,2,3,3,2,1,3,with friends,3,3,4,2,1
+2,Female,state,2,2,2,1,Bus,1,3,2,1,2,1,1,1,3,not applicable,2,1,1,1,4
+2,Female,state,1,2,1,2,bicycle,1,3,2,2,1,4,1,2,3,not applicable,2,3,1,1,4
+2,Female,state,2,2,2,2,bicycle,2,1,1,1,1,3,1,2,1,with friends,3,2,2,1,1
+1,Male,other,2,2,2,2,Other,4,2,5,1,3,3,1,1,2,not applicable,1,3,2,1,2
+2,Male,private,1,1,1,2,Bus,1,2,1,1,1,4,1,2,2,with friends,1,2,3,2,1
+1,Female,other,1,1,2,1,Bus,1,6,3,1,1,4,2,2,3,with friends,3,1,1,1,5
+1,Male,state,2,1,2,2,Private car/taxi,2,6,6,1,2,5,1,2,3,alone,1,3,5,1,1
+1,Male,other,1,1,1,2,Other,3,1,4,2,1,1,1,1,3,with friends,2,1,1,1,2
+3,Male,state,1,2,1,2,Bus,3,1,6,2,2,4,2,1,3,not applicable,2,3,1,4,1
+3,Male,private,1,1,2,1,Bus,3,4,3,2,1,1,1,2,1,not applicable,1,1,4,1,6
+2,Female,private,1,2,1,1,Private car/taxi,2,4,2,2,2,5,1,1,2,alone,2,1,4,2,2
+3,Female,private,1,1,1,1,bicycle,4,3,5,1,3,3,1,1,2,alone,2,2,2,1,5
+1,Female,state,2,1,2,2,Other,1,3,3,2,2,5,2,1,3,alone,1,1,2,2,0
+3,Female,private,2,1,1,2,Other,1,3,4,2,1,2,2,1,1,not applicable,2,3,5,1,4
+1,Male,other,2,1,2,2,bicycle,2,5,6,1,1,2,2,2,1,alone,3,2,3,3,1
+3,Male,other,2,1,1,2,Bus,1,2,6,1,2,3,1,2,3,not applicable,1,2,5,3,0
+2,Male,private,1,2,2,1,Private car/taxi,4,4,2,2,3,1,1,1,1,with friends,1,1,3,4,7
+2,Male,private,2,2,2,1,Other,2,5,2,1,1,5,2,1,3,not applicable,3,3,1,1,3
+2,Male,private,2,1,2,1,Other,3,3,1,1,1,1,1,2,3,with friends,3,1,3,3,6
+1,Male,private,2,1,2,1,Other,3,6,6,1,3,1,1,1,1,with friends,3,3,4,2,7
+1,Female,other,1,1,1,1,bicycle,4,6,6,1,3,2,2,1,2,with friends,3,1,3,2,3
+1,Male,private,1,2,2,2,Other,2,1,4,2,1,5,2,2,1,alone,1,1,3,3,6
+2,Female,other,1,1,1,1,Private car/taxi,2,1,1,2,2,1,1,1,2,alone,3,3,5,3,6
+2,Male,state,1,2,2,1,Private car/taxi,4,4,3,1,1,5,2,1,2,alone,3,1,2,1,1
+2,Female,private,1,1,2,1,Other,1,3,6,2,1,5,2,2,3,alone,2,3,2,4,1
+3,Female,state,2,2,1,2,Bus,1,2,6,1,2,3,1,1,2,with friends,1,1,3,4,2
+2,Male,private,1,2,1,1,bicycle,3,6,6,2,2,3,1,2,1,alone,1,3,1,4,2
+2,Male,other,1,1,1,1,Private car/taxi,3,3,4,2,1,4,2,1,3,with friends,3,1,5,2,4
+3,Female,other,2,2,2,2,Other,4,1,6,1,3,5,1,1,2,not applicable,1,2,2,1,4
+2,Male,other,2,2,1,1,bicycle,3,3,3,1,1,2,1,1,2,not applicable,3,2,1,2,1
+3,Female,other,2,2,1,1,Bus,4,3,1,2,3,3,1,2,2,with friends,2,1,2,2,6
+3,Female,private,1,2,2,2,Other,3,3,5,2,2,2,2,1,1,alone,2,1,2,3,2
+2,Male,private,1,1,2,2,Other,4,4,3,1,2,5,2,2,2,alone,1,3,4,2,4
+2,Female,private,1,1,1,1,bicycle,3,4,5,2,2,1,2,2,1,with friends,3,3,2,2,4
+3,Male,state,2,1,1,2,Other,2,3,4,1,2,5,1,2,1,with friends,3,1,4,4,0
+1,Female,private,1,2,1,1,Other,3,2,5,2,3,1,2,1,2,alone,2,3,4,3,4
+2,Female,other,1,2,1,1,Bus,3,4,1,2,3,5,1,1,1,not applicable,1,2,4,4,1
+2,Female,private,1,2,2,1,Bus,1,6,2,1,1,1,2,2,2,not applicable,1,1,1,4,3
+2,Male,state,2,1,2,1,bicycle,2,5,1,1,3,4,2,2,1,not applicable,3,1,4,1,6
+3,Female,private,1,2,2,1,bicycle,3,3,3,2,3,1,1,2,2,not applicable,2,2,3,2,0
+3,Female,private,1,2,2,1,Private car/taxi,2,1,5,1,3,1,1,2,2,not applicable,3,2,3,2,6
+2,Female,state,1,1,1,1,Other,3,2,2,1,1,5,2,2,2,alone,3,1,5,2,1
+2,Female,private,1,2,2,1,Other,3,5,1,2,3,4,2,2,3,not applicable,3,1,2,3,2
+1,Female,other,1,2,1,2,Private car/taxi,2,3,4,2,3,4,2,1,2,alone,1,2,5,3,5
+2,Male,state,2,2,2,1,Private car/taxi,4,6,4,1,2,3,1,2,1,alone,3,3,1,2,4
+3,Female,other,1,1,2,1,Other,2,5,4,1,1,3,1,1,3,alone,3,2,3,3,1
+1,Male,private,1,1,1,1,bicycle,3,3,6,2,1,4,1,1,2,with friends,3,3,2,2,0
+2,Female,state,1,1,2,2,Bus,3,5,3,1,3,5,2,2,3,not applicable,1,3,4,4,5
+3,Female,state,2,1,2,1,bicycle,2,2,4,1,3,2,1,2,3,not applicable,1,2,2,1,4
+1,Male,private,2,2,2,1,Private car/taxi,4,5,5,2,3,4,1,1,3,not applicable,1,3,1,2,1
+3,Female,other,2,2,2,2,Private car/taxi,2,2,6,1,2,2,1,2,1,with friends,3,2,5,3,3
+1,Male,state,1,1,1,1,Other,4,5,4,2,3,4,2,1,2,with friends,3,3,4,3,2
+1,Female,other,2,1,1,2,Bus,1,6,4,1,1,2,2,1,2,with friends,3,1,3,2,7
+3,Male,state,1,2,1,1,Other,4,5,1,1,1,4,1,1,2,not applicable,3,1,1,1,3
+2,Male,private,2,2,2,1,Private car/taxi,2,1,4,2,3,5,2,2,3,with friends,3,2,5,3,3
+3,Female,state,1,1,2,2,Bus,2,1,5,1,3,3,1,1,1,alone,3,3,4,2,5
+1,Female,state,2,2,1,2,Bus,3,5,3,2,1,1,2,1,3,alone,2,2,5,3,2
+1,Male,state,2,2,1,2,Private car/taxi,4,3,2,1,1,2,2,1,3,not applicable,1,1,4,3,7
+2,Male,other,2,1,1,1,Private car/taxi,3,1,5,1,2,3,2,1,3,with friends,1,1,5,4,4
+3,Male,state,1,1,1,1,Bus,2,2,2,1,1,3,1,2,2,alone,2,3,5,2,3
+3,Female,state,2,1,2,2,Bus,3,2,2,1,3,5,1,2,1,not applicable,3,3,1,4,1
+3,Male,private,2,1,2,1,Bus,1,3,2,2,1,2,2,1,2,with friends,3,3,2,3,2
+1,Male,state,1,1,2,1,Bus,3,6,1,2,3,1,2,2,3,not applicable,2,2,1,4,0
+1,Female,other,1,2,2,2,Bus,3,5,2,1,1,3,2,1,2,alone,2,1,1,3,6
+3,Female,state,1,1,1,1,Private car/taxi,4,3,5,2,3,3,1,1,2,not applicable,1,1,3,4,7
+2,Male,other,2,2,1,2,Bus,2,6,6,2,3,4,1,1,3,alone,1,1,4,1,6
+1,Male,private,2,1,2,2,Private car/taxi,1,5,4,1,2,2,1,2,1,with friends,1,2,2,1,4
+2,Male,other,2,1,1,2,Other,4,4,3,1,2,5,2,1,2,with friends,2,3,2,3,7
+2,Male,private,2,2,2,2,Private car/taxi,2,1,1,1,3,4,2,1,2,alone,2,3,5,3,2
+3,Male,private,2,1,2,2,Other,4,1,1,2,2,4,1,1,2,not applicable,2,3,5,2,1
+1,Female,other,2,1,2,1,Other,2,5,4,2,3,1,1,1,2,not applicable,3,2,4,4,3
+1,Male,private,2,2,1,1,Private car/taxi,1,6,2,1,3,1,1,1,2,with friends,2,2,4,3,0
+3,Male,private,2,1,1,1,Other,3,1,6,1,1,1,2,1,3,alone,3,3,4,2,4
+1,Male,private,2,2,1,2,bicycle,4,4,4,2,1,4,2,2,2,alone,2,1,4,1,5
+3,Female,other,2,2,1,1,Private car/taxi,1,1,4,1,1,5,2,1,3,with friends,1,2,4,3,5
+1,Male,other,1,2,2,1,bicycle,1,5,2,2,3,2,2,1,1,with friends,3,1,5,4,0
+3,Female,private,2,2,2,1,Bus,4,2,2,2,2,5,1,2,3,with friends,1,3,4,3,4
+2,Male,state,1,2,1,1,Other,4,5,1,1,1,5,1,2,2,with friends,1,1,1,1,7
+1,Female,private,1,2,1,1,Other,1,6,4,2,2,4,2,2,3,alone,3,3,5,2,6
+2,Female,private,1,2,1,2,Bus,2,6,3,2,2,1,2,1,3,with friends,1,2,2,1,6
+2,Male,state,2,2,2,2,Other,2,3,5,1,3,4,2,2,2,alone,3,1,1,3,2
+1,Male,other,2,1,1,2,bicycle,3,5,2,1,1,2,1,1,1,with friends,1,1,1,2,1
+2,Female,other,1,1,1,1,Bus,3,5,1,2,1,3,2,1,1,alone,3,1,4,4,4
+3,Male,state,2,1,2,2,Bus,2,3,5,2,1,3,2,2,1,with friends,3,1,2,3,6
+1,Male,private,2,1,1,1,Bus,1,4,5,2,2,4,2,1,3,with friends,2,1,3,4,6
+3,Male,other,1,1,1,2,Bus,1,1,6,2,2,1,2,1,3,alone,2,3,5,3,0
+1,Male,private,2,2,2,2,Private car/taxi,2,5,2,1,1,2,1,2,3,not applicable,2,2,4,1,6
+3,Female,other,2,2,1,2,Other,4,6,5,2,1,4,1,2,2,with friends,2,2,2,4,0
+1,Male,other,1,2,1,1,Other,1,3,6,1,3,4,2,1,2,alone,3,2,4,2,5
+1,Male,private,2,1,2,1,Bus,3,5,4,2,2,1,1,2,2,with friends,2,1,1,4,3
+3,Male,private,2,1,1,2,Private car/taxi,4,6,4,1,1,4,1,2,3,with friends,1,3,2,4,1
+2,Female,other,2,1,2,1,Other,3,6,6,2,1,5,1,2,2,alone,2,2,4,1,1
+3,Female,private,2,1,2,1,Other,3,6,3,1,1,2,2,1,2,not applicable,2,1,4,1,3
+3,Female,private,2,2,2,1,Other,3,3,6,2,2,1,1,2,2,not applicable,2,1,4,2,6
+2,Male,state,2,1,1,2,Bus,4,2,2,2,1,1,1,1,1,not applicable,1,2,4,2,0
+2,Male,other,1,1,1,1,Private car/taxi,1,5,2,1,2,3,1,1,3,alone,1,3,1,1,5
+2,Female,state,2,1,1,2,bicycle,2,4,3,1,1,1,2,2,1,not applicable,2,3,1,4,2
+1,Male,state,1,2,2,2,Bus,4,2,6,2,1,3,1,1,1,with friends,2,2,2,2,6
+3,Female,other,2,1,1,2,Bus,4,3,1,1,3,1,2,2,2,with friends,2,3,1,3,3
+3,Male,private,1,1,2,1,Other,3,2,6,1,3,4,2,1,2,not applicable,1,3,1,1,5
+3,Female,private,1,2,1,2,Private car/taxi,4,5,1,2,3,3,2,1,3,not applicable,3,3,3,4,6
+3,Male,private,1,1,2,1,bicycle,1,6,3,2,3,4,2,2,3,not applicable,3,3,4,1,3
+2,Male,private,2,1,1,2,Bus,4,3,1,2,2,3,1,2,1,alone,3,2,1,3,4
+2,Male,state,2,1,2,2,Private car/taxi,3,6,2,1,1,5,2,2,2,with friends,2,2,2,1,5
+2,Male,private,2,1,1,2,Bus,4,6,5,1,3,2,1,1,2,alone,2,2,2,4,0
+1,Female,private,1,1,2,2,Bus,1,6,5,1,1,3,2,2,3,not applicable,2,3,4,2,4
+2,Female,private,1,1,1,2,Bus,2,1,4,2,1,5,1,2,2,not applicable,3,1,1,3,0
+3,Male,state,2,2,1,1,bicycle,1,5,4,1,3,4,2,2,3,not applicable,2,3,1,4,7
+1,Male,private,1,2,1,1,Other,3,4,1,1,2,2,1,1,2,with friends,3,3,1,2,6
+2,Female,other,2,2,2,2,Bus,4,3,6,1,1,3,2,2,3,alone,3,3,1,4,3
+3,Female,state,1,2,1,1,Other,4,4,1,1,1,4,2,2,3,with friends,3,1,5,1,4
+2,Male,other,1,1,1,1,Private car/taxi,1,3,5,1,1,5,1,2,1,alone,1,3,5,4,0
+3,Male,other,2,1,1,2,Other,4,1,3,1,3,5,1,2,2,with friends,2,1,4,4,2
+3,Female,other,1,1,1,2,Bus,3,4,1,1,3,3,2,1,2,not applicable,3,1,4,2,0
+1,Female,other,1,2,2,1,Private car/taxi,2,4,6,2,3,3,1,1,2,alone,1,1,3,1,3
+1,Female,private,1,1,2,1,Private car/taxi,2,3,1,1,2,2,1,1,2,not applicable,3,1,1,2,4
+1,Male,state,2,2,2,2,Private car/taxi,4,2,3,1,1,4,2,1,2,not applicable,3,1,1,1,0
+1,Male,other,2,1,2,2,Bus,2,1,3,2,2,4,1,2,1,with friends,3,1,2,4,4
+1,Female,private,1,1,2,1,Private car/taxi,1,3,1,1,2,1,2,2,1,alone,1,1,3,4,3
+1,Male,private,1,2,1,2,bicycle,2,5,1,1,3,5,2,2,3,with friends,3,3,3,4,7
+2,Male,state,1,2,2,2,bicycle,3,3,1,2,2,4,1,2,1,not applicable,3,1,4,4,7
+1,Female,other,1,2,1,1,bicycle,1,1,6,2,1,1,2,2,2,alone,2,2,3,2,1
+1,Female,private,2,1,2,2,bicycle,1,6,4,2,2,2,1,2,2,alone,1,2,4,4,5
+1,Male,state,2,2,1,1,Bus,4,5,2,1,1,1,2,2,3,alone,3,1,3,2,6
+1,Female,other,1,1,2,2,bicycle,3,2,3,2,2,1,2,1,2,with friends,1,1,3,1,5
+1,Male,other,2,2,1,1,Bus,3,4,2,2,3,5,1,2,2,not applicable,2,3,4,3,3
+1,Male,state,1,2,2,2,Private car/taxi,2,6,3,2,3,1,1,1,1,with friends,3,1,2,4,7
+3,Female,private,2,2,1,1,Private car/taxi,1,1,1,1,2,2,1,1,1,not applicable,2,3,3,3,6
+3,Female,private,2,2,2,1,Other,3,6,1,2,3,2,1,2,2,with friends,2,3,5,4,0
+3,Female,state,2,2,2,2,Bus,4,3,6,1,3,3,1,1,3,not applicable,3,3,2,2,0
+3,Female,private,1,1,1,1,bicycle,4,2,1,1,1,4,1,2,3,alone,3,2,5,4,0
+2,Female,private,1,1,1,2,bicycle,4,4,5,1,3,4,2,1,3,not applicable,2,1,1,4,2
+1,Male,private,1,1,1,1,bicycle,1,5,2,2,1,3,2,2,3,not applicable,2,3,3,2,4
+3,Female,private,2,2,2,2,Bus,4,6,3,2,3,1,1,1,3,not applicable,2,1,4,2,4
+1,Male,private,2,2,1,1,Other,2,2,4,1,2,1,2,2,2,with friends,3,3,2,2,1
+3,Male,other,2,1,2,1,bicycle,2,3,1,2,1,5,2,1,3,with friends,2,3,5,4,6
+2,Female,state,1,2,1,2,Bus,3,1,6,1,2,5,1,2,1,not applicable,1,1,1,4,0
+1,Female,state,2,1,1,1,Other,1,4,2,1,1,2,2,1,2,with friends,3,1,3,2,1
+1,Male,private,1,2,2,1,Private car/taxi,2,6,3,2,1,2,1,1,1,alone,3,2,4,1,4
+2,Female,private,1,2,1,2,bicycle,4,1,2,2,3,1,2,1,1,with friends,2,2,5,3,7
+2,Male,private,2,1,2,1,bicycle,2,3,2,2,3,5,2,2,2,not applicable,3,3,5,3,6
+2,Female,private,2,1,2,2,Other,4,6,2,1,3,3,2,2,1,not applicable,2,2,1,4,2
+3,Female,state,2,2,2,2,bicycle,1,5,2,1,2,3,1,2,1,not applicable,2,1,4,1,0
+1,Male,private,2,2,2,2,Other,4,6,5,2,1,1,2,1,2,with friends,3,1,3,2,1
+2,Female,state,2,2,2,2,Private car/taxi,3,6,4,1,3,2,1,1,1,not applicable,1,3,2,3,6
+3,Male,other,1,1,1,2,Private car/taxi,3,6,1,2,3,4,2,1,3,with friends,1,1,5,4,1
+1,Female,state,1,1,1,1,Bus,1,2,6,2,1,3,1,2,3,not applicable,1,1,3,3,6
+1,Male,other,1,2,1,2,Bus,1,4,6,2,1,3,2,2,1,with friends,1,2,5,4,0
+2,Female,state,1,1,2,2,Bus,2,2,5,2,2,2,1,1,3,with friends,2,1,5,1,3
+2,Female,private,2,2,1,1,Other,2,2,3,2,1,5,1,1,2,alone,3,1,2,4,6
+2,Male,state,1,1,1,1,Private car/taxi,3,6,6,2,1,5,2,2,1,not applicable,3,1,3,3,7
+2,Female,state,2,2,2,2,Bus,1,1,4,2,3,5,1,1,1,with friends,2,3,5,3,2
+1,Female,other,2,2,1,2,Other,1,2,6,2,1,3,1,1,1,not applicable,2,3,3,1,3
+3,Female,private,1,1,2,2,Bus,1,3,4,2,3,2,1,1,1,alone,3,3,3,1,4
+2,Female,private,2,1,1,2,Other,2,6,4,1,3,1,1,2,3,alone,1,2,3,4,1
+1,Male,other,2,1,1,2,Private car/taxi,2,4,6,1,2,5,1,2,1,not applicable,2,2,5,2,4
+1,Female,state,1,2,2,1,Bus,4,1,4,1,1,4,2,1,2,alone,2,2,4,1,7
+3,Female,state,2,2,2,2,Private car/taxi,2,3,1,1,2,3,2,2,2,with friends,1,2,1,3,5
+3,Male,state,2,2,1,2,Bus,3,6,1,2,1,3,2,2,2,alone,2,2,2,3,6
+2,Female,private,1,2,1,2,Private car/taxi,3,4,3,1,1,2,2,1,2,not applicable,3,3,3,3,7
+3,Female,other,1,1,2,2,Other,1,5,1,2,2,2,2,1,1,with friends,2,3,4,3,1
+2,Female,private,2,2,1,1,Other,3,2,4,1,1,3,2,2,3,with friends,2,3,2,1,0
+2,Female,other,2,2,2,2,Bus,1,6,4,1,3,4,1,1,3,not applicable,2,3,1,3,4
+2,Male,private,2,2,1,1,Private car/taxi,1,3,3,1,2,5,2,2,3,with friends,3,2,2,2,3
+1,Female,private,1,1,2,2,Other,2,1,2,2,2,1,1,2,2,not applicable,2,3,4,3,4
+1,Male,other,2,2,1,1,bicycle,3,5,6,1,3,4,1,2,3,alone,1,2,1,3,7
+2,Female,state,1,2,1,2,Bus,1,3,3,1,2,1,2,1,2,not applicable,2,1,2,3,3
+2,Female,private,1,2,2,2,bicycle,2,3,5,1,1,4,2,2,1,with friends,3,2,5,3,7
+3,Female,state,1,1,2,2,Other,4,1,1,1,3,3,2,2,3,with friends,2,1,3,4,6
+1,Female,private,1,1,2,1,Private car/taxi,2,4,5,1,2,5,1,2,3,with friends,3,2,1,4,7
+2,Male,private,1,2,2,2,Private car/taxi,2,5,1,1,1,3,1,1,2,alone,2,2,5,2,3
+1,Female,state,2,1,2,2,Other,2,2,1,1,1,2,1,1,2,not applicable,2,3,2,4,5
+3,Female,state,1,2,1,1,Private car/taxi,3,4,2,2,3,4,2,1,1,not applicable,3,2,2,4,4
+3,Male,other,2,1,2,1,Bus,3,1,5,1,2,1,2,2,2,alone,2,1,5,4,0
+2,Male,other,1,1,2,2,Private car/taxi,3,5,6,2,2,2,2,1,1,not applicable,3,1,4,1,5
+1,Female,state,2,1,1,2,Private car/taxi,1,3,1,1,3,1,1,2,1,with friends,1,3,2,2,2
+3,Male,other,2,2,2,1,Private car/taxi,4,5,2,1,2,3,1,2,2,alone,2,3,4,1,3
+1,Male,private,1,2,1,1,Other,4,5,4,1,2,4,1,1,2,with friends,1,2,4,3,0
+1,Female,other,1,2,2,2,Bus,1,5,5,1,3,2,1,1,3,with friends,1,3,4,1,6
+1,Female,other,2,2,2,1,Other,2,6,1,2,2,2,1,2,3,not applicable,3,1,4,4,7
+2,Female,state,2,2,2,1,bicycle,4,2,1,2,2,5,2,2,3,alone,1,1,4,2,3
+3,Female,state,2,2,1,1,Bus,4,4,2,2,2,2,1,1,3,not applicable,1,2,5,1,1
+2,Female,private,1,2,2,1,bicycle,4,3,4,2,2,5,2,2,2,not applicable,2,2,2,3,4
+3,Male,private,2,2,2,2,bicycle,3,3,5,1,1,5,2,1,1,not applicable,2,2,2,1,2
+3,Male,state,1,2,2,2,Bus,3,1,3,1,1,3,2,2,1,alone,1,3,2,4,1
+1,Male,private,1,2,1,1,bicycle,3,3,4,1,3,3,1,1,2,with friends,1,2,1,2,3
+1,Female,state,2,2,2,2,bicycle,4,6,2,2,3,2,1,1,2,alone,2,1,5,3,7
+2,Male,private,2,1,2,1,Private car/taxi,4,2,1,2,3,3,2,2,2,not applicable,2,3,5,1,0
+2,Male,state,1,1,2,1,Private car/taxi,3,1,3,2,2,3,2,1,3,not applicable,3,1,3,3,3
+3,Female,private,1,2,2,2,Private car/taxi,1,2,6,2,1,1,2,2,1,not applicable,3,2,1,2,6
+1,Male,private,1,1,2,2,Bus,3,4,6,1,1,1,1,2,1,with friends,2,2,2,4,0
+2,Female,private,1,2,2,1,Bus,1,1,3,2,3,4,2,1,2,with friends,3,1,5,3,0
+2,Male,state,2,1,2,1,bicycle,1,2,3,1,1,2,1,2,1,not applicable,1,1,2,3,0
+2,Male,private,1,1,1,1,Other,3,3,3,2,2,5,2,1,3,not applicable,3,3,5,1,1
+2,Female,private,1,1,1,2,bicycle,1,3,6,2,1,1,2,2,2,alone,1,1,3,4,1
+3,Male,state,1,1,1,2,Other,2,4,4,2,2,4,2,2,2,not applicable,1,3,3,3,5
+1,Male,private,2,1,2,2,Other,4,5,6,1,3,2,2,1,2,with friends,1,1,2,1,2
+2,Female,state,1,1,2,2,Bus,2,4,3,1,2,3,2,2,2,alone,3,3,2,3,0
+2,Male,private,1,2,1,2,Bus,2,1,6,1,1,2,2,2,2,not applicable,1,2,5,4,3
+1,Male,private,1,2,1,1,Private car/taxi,2,6,5,1,2,5,2,2,1,with friends,1,2,4,4,7
+2,Female,private,1,1,2,1,Bus,4,4,5,2,3,2,2,2,3,not applicable,2,1,4,4,4
+1,Male,other,1,2,1,2,Private car/taxi,3,2,5,1,1,2,2,2,3,alone,3,3,4,4,7
+2,Female,private,2,1,1,1,bicycle,4,1,6,1,2,4,1,1,2,with friends,3,1,2,3,6
+1,Female,other,2,2,2,2,Bus,2,2,5,2,3,4,2,1,3,with friends,2,2,4,2,3
+1,Male,private,2,1,1,1,bicycle,3,6,4,2,3,3,2,1,1,with friends,2,1,3,1,2
+2,Female,other,1,1,2,2,Bus,3,4,6,1,2,1,1,1,3,not applicable,2,3,5,4,7
+2,Male,private,2,1,2,2,Private car/taxi,2,3,5,2,2,1,2,1,2,alone,1,2,2,3,1
+1,Male,private,2,1,2,1,Private car/taxi,4,5,4,2,2,1,1,1,3,not applicable,1,1,4,4,7
+3,Male,state,1,2,2,2,Private car/taxi,4,1,3,1,3,2,1,1,2,alone,1,3,2,4,4
+3,Female,state,2,2,2,1,Bus,1,6,3,2,2,3,2,2,1,not applicable,2,2,2,1,5
+2,Male,state,2,1,2,1,Other,1,3,1,1,3,4,2,1,1,alone,1,3,4,3,3
+2,Male,other,2,2,2,2,Other,3,4,3,1,1,1,2,2,1,not applicable,2,1,4,2,1
+1,Male,private,1,1,2,2,Bus,1,5,1,1,2,2,2,1,3,with friends,1,3,3,3,3
+1,Male,private,2,1,2,2,bicycle,4,4,5,1,2,1,2,1,3,not applicable,1,1,1,3,6
+1,Male,private,2,1,1,1,Private car/taxi,2,4,3,1,2,4,1,1,2,with friends,3,3,4,1,1
+2,Female,other,2,1,2,1,Bus,3,4,1,2,1,4,1,2,1,alone,1,3,2,3,2
+1,Female,other,1,1,1,1,bicycle,4,2,4,2,3,3,1,1,3,alone,1,3,1,2,5
+2,Female,private,1,2,2,2,bicycle,2,3,4,2,3,3,2,1,3,with friends,3,1,4,1,4
+2,Female,other,1,1,1,2,Other,1,5,3,1,1,4,2,2,2,alone,3,2,3,1,1
